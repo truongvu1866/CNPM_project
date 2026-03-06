@@ -28,6 +28,7 @@ quản trị có nhu cầu xây dựng một phần mềm quản lý thu các lo
 BlueMoon.
 Ví dụ một mẫu sổ quản lý thu các khoản đóng góp:
 ![Hình 1-1: Ví dụ về mẫu giấy tờ thu chi đang thực hiện thủ công](./images/H1-1.png)
+Hình 1-1: Ví dụ về mẫu giấy tờ thu chi đang thực hiện thủ công  
 Trong phiên bản v1.0 của phần mềm, các chức năng cơ bản cần xây dựng cho Ban
 quản trị bao gồm: quản lý thông tin các khoản thu phí đóng góp, quản lý thu phí của
 các hộ gia đình. Ngoài ra phần mềm cũng cần cung cấp chức năng tra cứu, tìm kiếm
